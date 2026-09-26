@@ -1,0 +1,19 @@
+Column_Name,Data_Type,Description
+Product_Name,Text,Name of the laptop product listed on Flipkart
+Brand,Text,Brand or manufacturer of the laptop
+Processor,Text,Processor family or processor name
+RAM,Text,Original RAM value captured from Flipkart
+Storage,Text,Original storage value captured from Flipkart
+Screen_Size,Text,Original screen-size value captured from Flipkart
+Operating_System,Text,Operating system of the laptop
+Rating,Float,Average customer rating shown on Flipkart
+Ratings_Count,Integer,Number of ratings shown on Flipkart
+Reviews_Count,Integer,Number of reviews shown on Flipkart
+Selling_Price,Integer,Current selling price in Indian Rupees
+Original_Price,Float,Original/list price when available
+Discount,Float,Discount percentage when available
+Product_URL,Text,URL of the Flipkart product listing
+RAM_GB,Float,RAM converted into numeric gigabytes
+Screen_Size_Inches,Float,Screen size converted into numeric inches
+Storage_GB,Float,Storage converted into numeric gigabytes
+Price_Difference,Float,Original price minus selling price
